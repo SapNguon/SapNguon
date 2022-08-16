@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T03:59:44.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kDQPeOvz2l_lvxcyx4gI" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-16T04:01:04.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BMhTKBumLRkMr2fgl3Y4" version="20.2.3" type="github" pages="2">
   <diagram id="r8lVESYzvB8XMB0mEYaI" name="Danh sách đơn vị">
     <mxGraphModel dx="862" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,13 +84,10 @@
         <mxCell id="vgCODaOgOrsFMXEF_0XV-25" value="Sai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vgCODaOgOrsFMXEF_0XV-6">
           <mxGeometry x="15" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgCODaOgOrsFMXEF_0XV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vgCODaOgOrsFMXEF_0XV-6" source="vgCODaOgOrsFMXEF_0XV-26" target="vgCODaOgOrsFMXEF_0XV-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vgCODaOgOrsFMXEF_0XV-26" value="Đúng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vgCODaOgOrsFMXEF_0XV-6">
           <mxGeometry x="70" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vgCODaOgOrsFMXEF_0XV-21" value="Lưu thông tin vào hệ thống" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vgCODaOgOrsFMXEF_0XV-6">
+        <mxCell id="vgCODaOgOrsFMXEF_0XV-21" value="Hệ thống thực hiện lưu thông tin" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vgCODaOgOrsFMXEF_0XV-6">
           <mxGeometry x="20" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vgCODaOgOrsFMXEF_0XV-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="vgCODaOgOrsFMXEF_0XV-6" source="vgCODaOgOrsFMXEF_0XV-17" target="vgCODaOgOrsFMXEF_0XV-21">
