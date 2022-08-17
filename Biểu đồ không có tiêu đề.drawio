@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T08:17:25.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="K9w86vGzhx1iJAU04e_f" version="20.2.4" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-08-17T08:19:39.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PTC0Mt10NwiDey1FDuUv" version="20.2.4" type="github" pages="14">
   <diagram id="r8lVESYzvB8XMB0mEYaI" name="Danh sách đơn vị">
     <mxGraphModel dx="862" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -802,7 +802,7 @@
         <mxCell id="u1w7HZohwdJRAxKSna7_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="u1w7HZohwdJRAxKSna7_-6" source="u1w7HZohwdJRAxKSna7_-8" target="u1w7HZohwdJRAxKSna7_-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u1w7HZohwdJRAxKSna7_-8" value="Hiển thị danh sách theo độ ưu tiên" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="u1w7HZohwdJRAxKSna7_-6">
+        <mxCell id="u1w7HZohwdJRAxKSna7_-8" value="Hiển thị danh sách độ ưu tiên" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="u1w7HZohwdJRAxKSna7_-6">
           <mxGeometry x="25" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u1w7HZohwdJRAxKSna7_-14" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u1w7HZohwdJRAxKSna7_-6">
