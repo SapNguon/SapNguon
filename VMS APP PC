@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T01:57:42.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="EzCtTm4WxRb5EX9GkahW" version="20.2.6" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-08-24T01:58:06.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3lZTuuj9Wgb3svDU4MKD" version="20.2.6" type="github" pages="24">
   <diagram id="hZUoRg8aXcZwffUdhxyM" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2218,7 +2218,7 @@
         <mxCell id="w-Dm0XbwOH2ht_j7SXGc-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="230" y="10" width="400" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="w-Dm0XbwOH2ht_j7SXGc-2" value="Lane 1" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="w-Dm0XbwOH2ht_j7SXGc-1" vertex="1">
+        <mxCell id="w-Dm0XbwOH2ht_j7SXGc-2" value="Người dùng" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="w-Dm0XbwOH2ht_j7SXGc-1" vertex="1">
           <mxGeometry y="20" width="200" height="510" as="geometry" />
         </mxCell>
         <mxCell id="w-Dm0XbwOH2ht_j7SXGc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="w-Dm0XbwOH2ht_j7SXGc-2" source="w-Dm0XbwOH2ht_j7SXGc-5" target="w-Dm0XbwOH2ht_j7SXGc-6" edge="1">
@@ -2233,7 +2233,7 @@
         <mxCell id="E_v2jDCH_Z8THLrjAG_v-5" value="Click button &quot;Xuất file&quot;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="w-Dm0XbwOH2ht_j7SXGc-2">
           <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-Dm0XbwOH2ht_j7SXGc-3" value="Lane 2" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="w-Dm0XbwOH2ht_j7SXGc-1" vertex="1">
+        <mxCell id="w-Dm0XbwOH2ht_j7SXGc-3" value="Hệ thống" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="w-Dm0XbwOH2ht_j7SXGc-1" vertex="1">
           <mxGeometry x="200" y="20" width="200" height="510" as="geometry" />
         </mxCell>
         <mxCell id="E_v2jDCH_Z8THLrjAG_v-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="w-Dm0XbwOH2ht_j7SXGc-3" source="E_v2jDCH_Z8THLrjAG_v-1" target="E_v2jDCH_Z8THLrjAG_v-3">
