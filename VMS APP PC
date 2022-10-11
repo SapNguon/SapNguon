@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T07:46:05.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-2u5pG9y567tsRj3xSjw" version="20.3.5" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2022-10-11T03:04:55.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LJ0SR3oQQxZMkeO3aqUy" version="20.4.0" type="github" pages="27">
   <diagram id="hZUoRg8aXcZwffUdhxyM" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ekNTzDEw8524-70R9Qoc-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="1" vertex="1">
-          <mxGeometry x="230" y="140" width="610" height="1010" as="geometry" />
+          <mxGeometry x="230" y="140" width="610" height="850" as="geometry" />
         </mxCell>
         <mxCell id="ekNTzDEw8524-70R9Qoc-2" value="Người dùng" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ekNTzDEw8524-70R9Qoc-1" vertex="1">
-          <mxGeometry y="20" width="320" height="990" as="geometry" />
+          <mxGeometry y="20" width="320" height="830" as="geometry" />
         </mxCell>
         <mxCell id="ekNTzDEw8524-70R9Qoc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ekNTzDEw8524-70R9Qoc-2" source="ekNTzDEw8524-70R9Qoc-5" target="ekNTzDEw8524-70R9Qoc-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="40" y="400" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ekNTzDEw8524-70R9Qoc-3" value="Hệ thống" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ekNTzDEw8524-70R9Qoc-1" vertex="1">
-          <mxGeometry x="320" y="20" width="290" height="990" as="geometry" />
+          <mxGeometry x="320" y="20" width="290" height="830" as="geometry" />
         </mxCell>
         <mxCell id="ekNTzDEw8524-70R9Qoc-8" value="Hiển thị màn hình Thêm mới IVA" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ekNTzDEw8524-70R9Qoc-3" vertex="1">
           <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
@@ -665,7 +665,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G3vpfnOSWGeXAZaP6g_p" name="Thêm mới cấu hình IVA">
-    <mxGraphModel dx="862" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -798,7 +798,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_uNd8d7VYrHqhmCt4n9t" name="Dừng đỗ khu vực cấm">
-    <mxGraphModel dx="1231" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2412,6 +2412,86 @@
         </mxCell>
         <mxCell id="9uosyvIhhUhw6jwOM6ap-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="9uosyvIhhUhw6jwOM6ap-1" source="9uosyvIhhUhw6jwOM6ap-5" target="9uosyvIhhUhw6jwOM6ap-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zUANI8EifC_l7YjEF-P4" name="Cập nhật cấu hình IVA">
+    <mxGraphModel dx="1231" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nNandHBvyIRUbzSzAE9_-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="550" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="nNandHBvyIRUbzSzAE9_-1" source="nNandHBvyIRUbzSzAE9_-9" target="nNandHBvyIRUbzSzAE9_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-6" value="Người dùng" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-1">
+          <mxGeometry y="20" width="260" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="nNandHBvyIRUbzSzAE9_-6" source="nNandHBvyIRUbzSzAE9_-8" target="nNandHBvyIRUbzSzAE9_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-8" value="Bắt đầu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-6">
+          <mxGeometry x="70" y="30" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-9" value="Tại màn hình danh sách Cấu hình IVA, click chọn icon Cập nhật của 1 bản ghi" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-6">
+          <mxGeometry x="50" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-10" value="Nhập thông tin hợp lệ" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-6">
+          <mxGeometry x="40" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-12" value="Nhấn button Lưu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-6">
+          <mxGeometry x="40" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="nNandHBvyIRUbzSzAE9_-6" source="nNandHBvyIRUbzSzAE9_-10" target="nNandHBvyIRUbzSzAE9_-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="290" as="sourcePoint" />
+            <mxPoint x="280" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-15" value="Hệ thống" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-1">
+          <mxGeometry x="260" y="20" width="290" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-16" value="Gọi API Cập nhật cấu hình IVA" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-15">
+          <mxGeometry x="77.5" y="102.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-19" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-15">
+          <mxGeometry x="85" y="790" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="nNandHBvyIRUbzSzAE9_-15" source="nNandHBvyIRUbzSzAE9_-35" target="nNandHBvyIRUbzSzAE9_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-35" value="Gọi API Cập nhật cấu hình IVA&lt;br&gt;Hiển thị thông tin cập nhật thành công" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-15">
+          <mxGeometry x="62.5" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="nNandHBvyIRUbzSzAE9_-15" source="nNandHBvyIRUbzSzAE9_-37" target="nNandHBvyIRUbzSzAE9_-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-37" value="Hiển thị màn hình danh sách cấu hình IVA sau khi đã cập nhật" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-15">
+          <mxGeometry x="62.5" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-41" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-15">
+          <mxGeometry x="82.5" y="460" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="GaYyGPtWWEAWYt1_q1-a-1" value="Hiển thị màn hình Cập nhật cấu hình IVA với các thông tin tương ứng của bản ghi đã chọn" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="nNandHBvyIRUbzSzAE9_-15">
+          <mxGeometry x="62.5" y="190" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GaYyGPtWWEAWYt1_q1-a-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.52;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.541;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="nNandHBvyIRUbzSzAE9_-15" source="nNandHBvyIRUbzSzAE9_-16" target="GaYyGPtWWEAWYt1_q1-a-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="138" y="160" as="sourcePoint" />
+            <mxPoint x="130" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nNandHBvyIRUbzSzAE9_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="nNandHBvyIRUbzSzAE9_-1" source="nNandHBvyIRUbzSzAE9_-12" target="nNandHBvyIRUbzSzAE9_-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GaYyGPtWWEAWYt1_q1-a-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.02;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="nNandHBvyIRUbzSzAE9_-1" source="GaYyGPtWWEAWYt1_q1-a-1" target="nNandHBvyIRUbzSzAE9_-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="310" as="sourcePoint" />
+            <mxPoint x="290" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
